@@ -1,1 +1,2 @@
+What I have learned from this course
 I learnt about intro to Git, even though it is not new to me since I am a software engineer. It was still a good refresher, and it helped reinforce my understanding of how version control works. I appreciated the opportunity to go over the basics again, as it reminded me of best practices I should always follow when working with code
